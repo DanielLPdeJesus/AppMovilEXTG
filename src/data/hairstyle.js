@@ -94,70 +94,70 @@ export const hairstyles = [
   {
     id: "14",
     name: "CurlyShag",
-    display: "Curly Shag",
+    displayName: "Curly Shag",
     description: "Un estilo rizado y en capas que añade volumen y dimensión.",
     image: require("../../assets/curlyshag.jpg")
   },
   {
     id: "15",
     name: "WavyShag",
-    display: "Wavy Shag",
+    displayName: "Wavy Shag",
     description: "Un corte shag ondulado con capas y ondas despeinadas.",
     image: require("../../assets/wavyshag.jpg")
   },
   {
     id: "16",
     name: "FauxHawk",
-    display: "Faux Hawk",
+    displayName: "Faux Hawk",
     description: "Un estilo de faux hawk audaz que da un aspecto rebelde.",
     image: require("../../assets/fauxhawk.jpg")
   },
   {
     id: "17",
     name: "Spiky",
-    display: "Spiky Hair",
+    displayName: "Spiky Hair",
     description: "Un peinado con puntas para una apariencia atrevida.",
     image: require("../../assets/spiky.jpg")
   },
   {
     id: "18",
     name: "CombOver",
-    display: "Comb Over",
+    displayName: "Comb Over",
     description: "Un estilo clásico de peinado con raya al lado.",
     image: require("../../assets/combover.jpg")
   },
   {
     id: "19",
     name: "HighTightFade",
-    display: "High Tight Fade",
+    displayName: "High Tight Fade",
     description: "Un corte alto con desvanecimiento que proporciona un aspecto limpio y definido.",
     image: require("../../assets/hightightfade.jpg")
   },
   {
     id: "20",
     name: "TwoBlockHaircut",
-    display: "Two Block Haircut",
+    displayName: "Two Block Haircut",
     description: "Un corte de dos bloques de moda con contraste entre la parte superior y los lados.",
     image: require("../../assets/twoblockhaircut.jpg")
   },
   {
     id: "21",
     name: "TexturedFringe",
-    display: "Textured Fringe",
+    displayName: "Textured Fringe",
     description: "Un flequillo texturizado con volumen y definición.",
     image: require("../../assets/texturedfringe.jpg")
   },
   {
     id: "22",
     name: "BluntBowlCut",
-    display: "Blunt Bowl Cut",
+    displayName: "Blunt Bowl Cut",
     description: "Una versión moderna del clásico corte de tazón con borde recto.",
-    image: require("../../assets/bluntbowlcut.jpg")
+    image: require("../../assets/bluntbowlcut.jpeg")
   },
   {
     id: "23",
     name: "LongWavyCurtainBangs",
-    display: "Long Wavy Curtain Bangs",
+    displayName: "Long Wavy Curtain Bangs",
     description: "Cabello largo y ondulado con flequillo estilo cortina para un aspecto suave.",
     image: require("../../assets/longwavycurtainbangs.jpg")
   }
